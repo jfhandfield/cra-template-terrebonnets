@@ -1,0 +1,29 @@
+{
+  "name": "cra-template-terrebonnets",
+  "version": "1.0.4",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "mui",
+    "axios"
+  ],
+  "description": "The base template for Create React App at Ville de Terrebonne",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jfhandfield/cra-template-terrebonnets.git",
+    "directory": "cra-template-terrebonnets"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/facebook/create-react-app/issues"
+  },
+  "files": [
+    "template",
+    "template/src/api",
+    "template.json"
+  ]
+}
